@@ -1,8 +1,6 @@
-# LanguageTreeAdventure
+# Language Learning Adventure
 Functional Programming Project 2024
 Dan Suissa, Karel Moryoussef, Adan Fhima, Maximillien Bruck
-
-# Language Learning Adventure
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
