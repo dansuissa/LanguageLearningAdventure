@@ -19,8 +19,6 @@ Dan Suissa, Karel Moryoussef, Adan Fhima, Maximillien Bruck
    - [Navigation Logic](#navigation-logic)
 6. [Challenges and Considerations](#challenges-and-considerations)
 7. [Future Enhancements](#future-enhancements)
-8. [Contributing](#contributing)
-9. [License](#license)
 
 ## Project Overview
 The Language Learning Adventure is an interactive language learning application that allows users to explore and master different target languages, such as Spanish, French, and German. The application presents a structured curriculum with progressive levels, lessons, and quizzes to help users develop their language skills.
