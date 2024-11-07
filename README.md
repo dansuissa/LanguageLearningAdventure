@@ -36,11 +36,11 @@ To run the Language Learning Adventure application, follow these steps:
 1. Install a Haskell compiler, such as [GHC](https://www.haskell.org/ghc/) or [Stack](https://docs.haskellstack.org/en/stable/README/), on your system.
 2. Clone the project repository from GitHub:
    ```
-   git clone https://github.com/your-username/language-learning-adventure.git
+   git clone https://github.com/dansuissa/LanguageLearningAdventure.git
    ```
 3. Navigate to the project directory:
    ```
-   cd language-learning-adventure
+   cd LanguageLearningAdventure
    ```
 4. Compile the project:
    ```
