@@ -1,7 +1,6 @@
 # LanguageTreeAdventure
 Functional Programming Project 2024
 Dan Suissa, Karel Moryoussef, Adan Fhima, Maximillien Bruck
-Creating a comprehensive README file for your university project is crucial, as it will be one of the key factors in determining your grade. Here's a detailed README template that covers all the essential elements:
 
 # Language Learning Adventure
 
