@@ -44,7 +44,7 @@ To run the Language Learning Adventure application, follow these steps:
    ```
 4. Compile the project:
    ```
-   ghc LanguageTreeAdventure.hs
+   ghc -package base LanguageTreeAdventure.hs
    ```
 5. Run the application:
    ```
